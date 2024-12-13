@@ -1,2 +1,3 @@
-# Branding
-This is Island Offshore IT Branding Repository
+# Branding Repository
+This repository contains branding assets for our organization, including wallpapers, logos, and other resources.
+
